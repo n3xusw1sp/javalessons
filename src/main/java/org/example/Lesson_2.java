@@ -1,10 +1,9 @@
 package org.example;
 
 public class Lesson_2 {
+    // Змінні
+    // Урок:
     public static void main(String[] args) {
-        // ЗМІННІ:
-
-
         /* int - тип змінної для цілий чисел діапазоном від -2147483648 до 2147483647
            byte - тип змінної для цілий чисел діапазоном від -128 до 127
            short - тип змінної для цілий чисел діапазоном від -32768 до 32767
@@ -17,12 +16,12 @@ public class Lesson_2 {
         */
 
 
-        int num;
+        /* int num;
         num = 56;
         System.out.println("Number is " + num);
         num = 121; // тут ми змінили значення змінної
         System.out.println("Number is " + num);
 
-        boolean isHappy = true;
+        boolean isHappy = true; */
     }
 }

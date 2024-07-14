@@ -2,11 +2,9 @@ package org.example;
 import java.util.Scanner;
 
 public class Lesson_3 {
+    // Дані від користувача
+    // Урок: https://www.youtube.com/watch?v=9cV6MSE2IMg
     public static void main (String[] args) {
-        // Дані від користувача
-        // https://www.youtube.com/watch?v=9cV6MSE2IMg
-
-
         /*
            scan.nextFloat / Double - зчитує числа з .
            scan.nextLine - зчитує слова
